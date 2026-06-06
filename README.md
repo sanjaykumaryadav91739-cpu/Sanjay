@@ -1,3 +1,3 @@
 # Sanjay
-This is my firt git repository.
+This is my fisrt git repository.
 Supaul
